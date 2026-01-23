@@ -1,0 +1,1 @@
+This function handles Get ALL Orders and Posting Orders in Dynamo Db using AWS Lambda
