@@ -1,0 +1,1 @@
+AWS lambda function to insert orders in Dynamo DB using SQS as Processing Service
