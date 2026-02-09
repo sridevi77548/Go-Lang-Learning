@@ -1,0 +1,1 @@
+This folder consists of lambda function for to insert orders in dynamo db using SQS and API gateway 
